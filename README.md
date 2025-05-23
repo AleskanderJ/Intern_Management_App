@@ -1,10 +1,10 @@
 # Intern Management System – Power Platform App
 
-This repository contains an **unmanaged Power Platform solution (.zip)** for a model-driven application that helps manage intern feedback and tasks.
+This repository contains an **unmanaged Power Platform solution (.zip)** for a model-driven application that helps manage intern lifecycle and tasks.
 
 ## What's included
 
-- Model-driven apps: InternFeedbackMS, Intern Management App
+- Model-driven apps: Intern Management App
 - Dataverse tables
 - Views, forms, navigation, and logic
 
@@ -13,10 +13,10 @@ This repository contains an **unmanaged Power Platform solution (.zip)** for a m
 1. Go to [make.powerapps.com](https://make.powerapps.com)
 2. Navigate to **Solutions**
 3. Click **Import**
-4. Upload the file: `InternAppSolution_Unmanaged.zip`
+4. Upload the file: `InternManagementSolution_1_0_0_1`
 5. Wait for the import to complete
 
-✅ You can now open and edit the app inside your environment.
+You can now open and edit the app inside your environment.
 
 ---
 
